@@ -1,0 +1,22 @@
+*, html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100svh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+article {
+    line-height: 0;
+}
+
+img {
+    max-width: 50%;
+    max-height: 50%;
+    position: absolute;
+    top:50%;
+    left: 50%;
+}
