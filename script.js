@@ -85,7 +85,7 @@ function shuffleArray(array) {
 
 shuffleArray(images);
 
-let totalDisplayed = 15;
+let totalDisplayed = 9;
 
 // Ensure totalDisplayed does not exceed the number of available images
 
